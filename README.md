@@ -146,8 +146,6 @@ Provides a clean menu interface
 
 Handles invalid inputs safely
 
-Demonstrates core Python programming 
-
-📄 A detailed version (for project documentation)
+Demonstrates core Python programming
 
 📄 Viva questions & answers for this project 
